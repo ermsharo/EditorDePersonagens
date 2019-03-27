@@ -1,0 +1,129 @@
+body{
+	background-color: darkslategrey;
+}
+
+.tela{
+	background-color: "red";
+	color: red;
+	width: 534px;
+	height: 488px;
+	border :black 4px solid;
+
+	border-radius: 10px 10px 10px 10px;
+}
+
+td{
+border:#efefef 1px solid;
+}
+.Celula{
+		width: 20px;
+	height: 20px;
+	
+
+
+}
+
+#ImagemLapis{
+
+}
+
+.Erase{
+	
+	min-width: 15px;
+	min-height: 15px;
+
+}
+.BarraDeFerramentas{
+
+	width: 90px;
+}
+.PaintBucket{
+
+	min-width: 15px;
+	min-height: 15px;
+}
+.cor1{
+	width: 30px;
+	height: 30px;
+	background-color: coral;
+	float: right;
+
+}
+.SaveImgPaint{
+
+	min-width: 15px;
+	min-height: 15px;
+}
+.ColorSelect{
+
+	min-width: 15px;
+	min-height: 15px;
+}
+.Draw{
+	
+
+	align-content: center;
+
+}
+
+.cor2{
+	width: 30px;
+	height: 30px;
+	background-color: crimson;
+	float: right;
+}
+.cor3{
+	width: 30px;
+	height: 30px;
+	background-color: green;
+	float: right;
+}
+.FrenteTela{
+	background-color: red;
+}
+.fundoTela{
+
+}
+.Player{
+	float:right;
+}
+#A1{
+	
+	border: none;
+
+}
+#A20{
+	border: none;
+}
+#S1{
+	border: none;
+}
+#S20{
+	border: none;
+}
+.BordaPainel{
+	padding: 15px;
+	background-color: black;
+	border-radius: 10px 10px 10px 10px;
+	height: 545px;
+	width: 605px;
+	
+	
+
+}
+#Mapa{
+	float :left;
+	background-color:white;
+	border-radius: 10px 10px 10px 10px;
+	  }
+.BarraDeFerramentas{
+	position: relative;
+	right: -545px;
+	width: 60px;
+	height: 488px;
+	border :blue 2px solid;
+	top:-492px;
+	
+	border-radius: 
+	12px 12px 12px 12px;
+}
